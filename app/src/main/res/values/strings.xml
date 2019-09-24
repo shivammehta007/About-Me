@@ -2,5 +2,12 @@
     <string name="app_name">About Me</string>
     <string name="name_me">Shivam Mehta</string>
     <string name="yellow_star">Yellow Star</string>
+    <string name="bio_text">
+        MSc in Machine Learning and Data Analysis \n\n
+        with 4+ Years of Coding experience using various \n\n
+        Technologies and Architecture, \n\n
+        an excellence seeker, perfectionist and a passionate learner. Believes in Clean \n\n
+        Coding and SOLID Principles \n\n
+    </string>
 
 </resources>
